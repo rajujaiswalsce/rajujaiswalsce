@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **rajujaiswal220@gmail.com**
 
-- 📄 Know about my experiences <a href="hhttps://drive.google.com/file/d/1DT91u2P_vUpDvxaSqTGUsllyvtDKtGBq/view?usp=sharing">**Resume** </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DT91u2P_vUpDvxaSqTGUsllyvtDKtGBq/view?usp=sharing">**Resume** </a>
 
 - ⚡ Fun fact **I am funny.**
 
