@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👯 I worked collaboratively on [REST API for an Covid-19 Application](https://github.com/nvFARHAN/cowin.gov.in)
+- 👯 I worked collaboratively on [REST API Freshly.com](https://github.com/CYNO28/Freshly)
 
 - 👨‍💻 All of my projects are available at  <a href="https://Rajujaiswal.github.io/RajujaiswalPortfolio/"> **Portfolio** </a>
 
